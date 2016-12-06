@@ -1,0 +1,82 @@
+.container-fluid{
+	padding: 0;
+}
+.container{
+	padding: 0;
+	margin: 0 auto;
+}
+.header{
+	background-color: #FFC90B;
+	width:100%;
+	height: 80px;
+}
+.busca{
+	position: absolute;
+	float: right;
+	padding-top: 20px;
+	left: 1100px;
+}
+
+.contorno{
+        position: relative;
+	width: 100%;
+	height: 500px;
+	background-color: #E6E7E9;
+}
+.cad{
+            height:630px;
+}
+
+
+.logo{
+	position: relative;
+	padding-left:50px;
+}
+.imagem{
+	margin-top: -30px;
+}
+
+.quadro{
+	float: left;
+	margin-top: 40px;
+	width: 100%;
+	height: 225px;
+	background-color: #fff;
+}
+.quadro-cad{
+	position: absolute;
+	margin-left: 260px;
+        margin-top: -90px;
+	width: 100%;
+	height: 470px;
+	background-color: #fff;
+}
+.ped_aberto{
+	position: absolute;
+	top: 460px;
+	width: 23%;
+	height: 40px;
+	background-color: #EE3137;
+}
+.pedido{
+	float: right !important;
+	/*right: 20px !important;*/
+	width: 80%;
+	height: 250px;
+	margin-top: 40px;
+	margin-right: 50px;
+	background-color: #E6E7E9;
+}
+
+
+.modal-body .form-horizontal .col-sm-2,
+.modal-body .form-horizontal .col-sm-10 {
+    width: 100%
+}
+
+.modal-body .form-horizontal .control-label {
+    text-align: left;
+}
+.modal-body .form-horizontal .col-sm-offset-2 {
+    margin-left: 15px;
+}
